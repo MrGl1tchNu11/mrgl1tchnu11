@@ -1,6 +1,6 @@
 # 🐺 Silver Wolf's Digital Playground
 <div align="center">
-  <img src="MySilverWolf.png" alt="Silver Wolf Hacking" width="300"/>
+  <img src="https://i.imgur.com/BUaDlxk.png" alt="Silver Wolf Hacking" width="300"/>
   
   *"The universe is just a game to me, and I never lose."* - Silver Wolf
 </div>
