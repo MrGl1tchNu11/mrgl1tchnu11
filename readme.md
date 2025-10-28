@@ -20,20 +20,10 @@ Status: Currently hacking reality.exe...
 
 ---
 
-## 🏆 Achievement Board
-```
-╔══════════════════════════════════════╗
-║              STATS SCREEN            ║
-╠══════════════════════════════════════╣
-║ CTFs Participated: 11                ║
-║ Flags Captured: 100                  ║
-║ Tools Developed: 00                  ║
-║ Writeups Published: 01               ║
-╚══════════════════════════════════════╝
-```
+## 📝 CTF Writeups 
 
-### 🎮 Current Game Progress
-- [x] **PicoCTF** - Fundamentals mastery
+- [🌟 ITTSec - WriteUp](https://github.com/MrGl1tchNu11/ITTSec-WriteUp)
+
 ---
 
 ## 🛡️ Digital Arsenal
@@ -58,6 +48,13 @@ class SilverWolfExploit:
 | **Crypto** | ⭐⭐⭐⭐ | SageMath, CyberChef, Custom Tools |
 | **Forensics** | ⭐⭐⭐ | Autopsy, Volatility, Wireshark |
 | **Misc** | ⭐⭐⭐  | Python, Bash, Creative Thinking |
+
+---
+
+## 🤝 Connect & Collaborate
+
+- 💬 Discord: `WearTime#7148`
+- 🌐 CTFtime: [Mr.Gl1tchNu11](https://ctftime.org/user/234347)
 
 ---
 
