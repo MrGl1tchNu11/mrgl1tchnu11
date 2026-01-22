@@ -25,6 +25,9 @@ Status: Currently hacking reality.exe...
 - [🌟 ITTSec - WriteUp](https://github.com/MrGl1tchNu11/ITTSec-WriteUp)
 - [🎉 WreckIT - WriteUp](https://github.com/MrGl1tchNu11/WreckIT-WriteUp)
 - [🥀 TechTonicExpo - WriteUp](https://github.com/MrGl1tchNu11/TechTonicExpo-WriteUp)
+- [🦆 LappungCTF - WriteUp](https://github.com/MrGl1tchNu11/LappungCTF-WriteUp)
+- [👥 CyberWave 1.0 - WriteUp](https://github.com/MrGl1tchNu11/CyberWave1.0-WriteUp)
+- [👀 CyberJawara - WriteUp](https://github.com/MrGl1tchNu11/CyberJawara-WriteUp)
 ---
 
 ## 🛡️ Digital Arsenal
