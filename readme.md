@@ -23,7 +23,8 @@ Status: Currently hacking reality.exe...
 ## 📝 CTF Writeups 
 
 - [🌟 ITTSec - WriteUp](https://github.com/MrGl1tchNu11/ITTSec-WriteUp)
-- [🎉 WreckIT-WriteUp](https://github.com/MrGl1tchNu11/WreckIT-WriteUp)
+- [🎉 WreckIT - WriteUp](https://github.com/MrGl1tchNu11/WreckIT-WriteUp)
+- [🥀 TechTonicExpo - WriteUp](https://github.com/MrGl1tchNu11/TechTonicExpo-WriteUp)
 ---
 
 ## 🛡️ Digital Arsenal
